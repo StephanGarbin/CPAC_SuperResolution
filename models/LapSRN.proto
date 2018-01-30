@@ -18,7 +18,7 @@
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ‹
 2829"	LeakyRelu*
@@ -34,7 +34,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
  
 29
@@ -64,7 +64,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 3031"	LeakyRelu*
@@ -89,7 +89,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
  
 31
@@ -119,7 +119,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 3233"	LeakyRelu*
@@ -144,7 +144,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
  
 33
@@ -174,7 +174,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 3435"	LeakyRelu*
@@ -199,7 +199,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
  
 35
@@ -229,7 +229,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 3637"	LeakyRelu*
@@ -254,7 +254,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
  
 37
@@ -284,7 +284,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 3839"	LeakyRelu*
@@ -309,7 +309,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
  
 39
@@ -339,7 +339,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 4041"	LeakyRelu*
@@ -364,7 +364,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 41
@@ -394,7 +394,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 4243"	LeakyRelu*
@@ -419,7 +419,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 43
@@ -449,7 +449,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 4445"	LeakyRelu*
@@ -474,7 +474,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 45
@@ -504,7 +504,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 4647"	LeakyRelu*
@@ -529,7 +529,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 47
@@ -559,7 +559,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 4849"	LeakyRelu*
@@ -584,7 +584,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ã50"Constant*î
 value*á@JÄ                                                                                                                                                                                                                                                                †2„/home/sgarbin/.local/lib/python3.6/site-packages/torch/nn/functional.py(192): conv_transpose2d
@@ -608,7 +608,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 „
 49
@@ -639,7 +639,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 5152"	LeakyRelu*
@@ -664,7 +664,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ﬁ53"Constant*
 value*
@@ -680,7 +680,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ≥	
 0
@@ -702,7 +702,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ú	
 52
@@ -723,7 +723,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ◊
 54
@@ -735,7 +735,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 52
@@ -765,7 +765,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 5758"	LeakyRelu*
@@ -790,7 +790,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 58
@@ -820,7 +820,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 5960"	LeakyRelu*
@@ -845,7 +845,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 60
@@ -875,7 +875,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 6162"	LeakyRelu*
@@ -900,7 +900,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 62
@@ -930,7 +930,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 6364"	LeakyRelu*
@@ -955,7 +955,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 64
@@ -985,7 +985,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 6566"	LeakyRelu*
@@ -1010,7 +1010,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 66
@@ -1040,7 +1040,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 6768"	LeakyRelu*
@@ -1065,7 +1065,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 68
@@ -1095,7 +1095,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 6970"	LeakyRelu*
@@ -1120,7 +1120,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 70
@@ -1150,7 +1150,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 7172"	LeakyRelu*
@@ -1175,7 +1175,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 72
@@ -1205,7 +1205,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 7374"	LeakyRelu*
@@ -1230,7 +1230,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 À
 74
@@ -1260,7 +1260,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 7576"	LeakyRelu*
@@ -1285,7 +1285,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ã77"Constant*î
 value*á@JÄ                                                                                                                                                                                                                                                                †2„/home/sgarbin/.local/lib/python3.6/site-packages/torch/nn/functional.py(192): conv_transpose2d
@@ -1309,7 +1309,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 „
 76
@@ -1340,7 +1340,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ä
 7879"	LeakyRelu*
@@ -1365,7 +1365,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ﬁ80"Constant*
 value*
@@ -1381,7 +1381,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 µ	
 56
@@ -1403,7 +1403,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ù	
 79
@@ -1424,7 +1424,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 
 ◊
 81
@@ -1436,7 +1436,7 @@ eval.py(43): <module>
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/jit/__init__.py(250): trace
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(131): _export
 /home/sgarbin/.local/lib/python3.6/site-packages/torch/onnx/__init__.py(82): export
-eval.py(43): <module>
+eval.py(45): <module>
 torch-jit-export*ê@B1JÄ∑…ûº	=bãºÂ„=∫EèΩΩa∂ºπj =/ÑΩ§ h=„‘¥=/ mΩ,¡º›%‹Ω”l=¸õ£<Ò—<Eı—ºÓø;˜yöªØ%ΩŒ=63<;∞=ﬂ˛ºÔùaº|…»<Ì◊NΩ®†lΩÌ∫=J®ƒº®ìË<Ö`c<%zﬁ:MÑ$<›ŸΩ’Qﬂ;√'/Ωı˝>ívµ∫T⁄(<¶ºfΩÒz=b©Õ<Ï.ΩÚ©≤Ω>8oº¨Jh<æû¯;Æ!ü<Ö+ΩÍ<n⁄ª∞=Âdº•πs;∑…Ô;æªWbÊª¸àîª]CvΩÉÂΩ	¢=>±Ø<VΩÍ/ô<"Øø<ºÿsΩJ)ΩQ…Ω=¨ˆ€=aéæº\∏ÆΩ∏<àªy©Ã=è•ÏΩ;jö<4‡¶=[∑TΩAÇºıäS;ˆU;,|>NﬂL=ºBº†æ´%Ω≤ <Ntc:`Ëπ∫=ü=:Wè=mÂWΩWH<ëÆwª∞å€=6,NΩ{7º÷n-;2»;–àù=¯÷<“ﬁÃ<˛¯Ω1òΩ=a2Ω€iK=gÎ›;©@∏<“´âªÕ.Dºw„D∫áÒ7±Zä<\_ªjwΩÜ8!=!˛3Ωˇ¡ñªˇ˘ã=ﬂ3.Ωÿ	Õ;![òΩË¢Q= W±;Dâ<‚},ª∏"ÌªË•;%åÔ<
 ùK<?ÿΩõæ◊~“<∑>eÍ <IÄ›ªåé<∏ˆöºhà=tπ…<∏$∂<¢ﬁéºñuzΩ9%Õ<®íƒ<íºKÆØ∫i¢Ω#Â=ÈÃÍº∆Sj<>çëº™≤(<Ωg3=;ΩCri=…–Áº˛Ïòºê8I;–!:∞;9A!;ãåº@,Ωˇ6:=ÕC>j‡º4÷√Ωá
 ÃΩ√l=Y =l'Ñºã‡Ωöìß=ÒK
